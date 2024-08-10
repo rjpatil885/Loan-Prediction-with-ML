@@ -4,11 +4,11 @@ This project aims to predict the likelihood of a loan being repaid based on hist
 
 ## Key Features
 
-Data Preprocessing: The project handles missing data, encodes categorical variables, and scales numerical features to prepare the data for modeling.
-Exploratory Data Analysis (EDA): Includes data visualization and correlation analysis to gain insights into the relationships between variables.
-Modeling: Utilizes a Random Forest classifier for prediction, taking advantage of its ability to handle both numerical and categorical data effectively.
-Evaluation: The model's performance is evaluated using various metrics, including accuracy, confusion matrix, and classification report.
-Graphical User Interface (GUI): A user-friendly GUI built with Tkinter allows users to interact with the models, input data, and view predictions without needing to interact with the underlying code.
+* Data Preprocessing: The project handles missing data, encodes categorical variables, and scales numerical features to prepare the data for modeling.
+* Exploratory Data Analysis (EDA): Includes data visualization and correlation analysis to gain insights into the relationships between variables.
+* Modeling: Utilizes a Random Forest classifier for prediction, taking advantage of its ability to handle both numerical and categorical data effectively.
+* Evaluation: The model's performance is evaluated using various metrics, including accuracy, confusion matrix, and classification report.
+* Graphical User Interface (GUI): A user-friendly GUI built with Tkinter allows users to interact with the models, input data, and view predictions without needing to interact with the underlying code.
 
 ## Dependencies
 
